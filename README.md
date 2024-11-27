@@ -1,6 +1,6 @@
-# 👋 Привет!
+# Привет, меня зовут Константин!
 
-![Banner](#)
+![Banner]([#](https://drive.google.com/file/d/1Mkq1cKmZP2wadodoRkhEB3MpUyB5GKg3/view?usp=sharing))
 
 **iOS-разработчик**
 
