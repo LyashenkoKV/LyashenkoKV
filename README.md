@@ -1,10 +1,12 @@
-# 👋 Привет! Меня зовут Константин
+# 👋 Привет!
+
+![Banner](#)
 
 **iOS-разработчик**
 
 [![Telegram Badge](https://img.shields.io/badge/-@Lyashenkokv-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/Lyashenkokv)
 [![Email Badge](https://img.shields.io/badge/-lyashenkokv@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:lyashenkokv@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]([#](https://www.linkedin.com/in/lyashenkokv/))
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lyashenkokv/)
 
 ## 🔧 Технологии и инструменты
 
@@ -17,13 +19,17 @@
 
 ## 📈 Статистика GitHub
 
-[![Ваши статистики GitHub](https://github-readme-stats.vercel.app/api?username=LyashenkoKV&show_icons=true&theme=swift)](https://github.com/LyashenkoKV)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyashenkoKV&layout=compact&theme=swift)](https://github.com/LyashenkoKV)
-
-## 🏆 Достижения
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LyashenkoKV&theme=onedark)](https://github.com/LyashenkoKV)
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=LyashenkoKV&show_icons=true&theme=dark&hide_border=true&bg_color=00000000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=LyashenkoKV&show_icons=true&theme=default&hide_border=true&bg_color=00000000"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LyashenkoKV&show_icons=true&hide_border=true&bg_color=00000000" />
+</picture>
 
 ## 📫 Контакты
 
@@ -35,4 +41,3 @@
 ---
 
 ⭐️ Постоянно изучаю новые технологии и совершенствую навыки в iOS-разработке. Открыт для сотрудничества и интересных проектов!
-}
