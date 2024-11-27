@@ -1,7 +1,5 @@
 # Привет, меня зовут Константин!
 
-//![Banner]([#](https://drive.google.com/file/d/1Mkq1cKmZP2wadodoRkhEB3MpUyB5GKg3/view?usp=sharing))
-
 **iOS-разработчик**
 
 [![Telegram Badge](https://img.shields.io/badge/-@Lyashenkokv-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/Lyashenkokv)
