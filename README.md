@@ -8,12 +8,12 @@
 
 ## 🔧 Технологии и инструменты
 
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=Swift&logoColor=black)
-![iOS](https://img.shields.io/badge/-iOS-000000?style=flat&logo=Apple&logoColor=black)
-![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat&logo=Xcode&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=black)
-![CocoaPods](https://img.shields.io/badge/-CocoaPods-EE3322?style=flat&logo=CocoaPods&logoColor=black)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=Swift&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat&logo=Apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat&logo=Xcode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
+![CocoaPods](https://img.shields.io/badge/-CocoaPods-EE3322?style=flat&logo=CocoaPods&logoColor=white)
 
 ## 📈 Статистика GitHub
 
