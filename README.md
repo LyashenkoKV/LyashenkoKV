@@ -31,7 +31,6 @@
 
 ## 📫 Контакты
 
-- 📱 **Телефон:** +7 (918) 977-17-71
 - 💬 **Telegram:** [@Lyashenkokv](https://t.me/Lyashenkokv)
 - ✉️ **Email:** [lyashenkokv@gmail.com](mailto:lyashenkokv@gmail.com)
 - 💼 **LinkedIn:** [Профиль LinkedIn](https://www.linkedin.com/in/lyashenkokv/)
